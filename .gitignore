@@ -1,0 +1,8 @@
+node_modules/
+build/
+dist/
+.next/
+.angular/
+next-env.d.ts
+*.tsbuildinfo
+.env
